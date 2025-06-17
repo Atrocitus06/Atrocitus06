@@ -1,5 +1,5 @@
   
-# Hi 👋, I'm Kishalay Lahiri
+# Hi 👋, I'm Anshul Bagchi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=38F2A0&background=09131B&random=true&width=500&lines=Full+Stack+%7C+Java+%7C+Spring+Boot)](https://git.io/typing-svg)
 
